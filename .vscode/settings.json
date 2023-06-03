@@ -1,0 +1,7 @@
+{
+  "git.allowForcePush": true,
+  "git.verboseCommit": true,
+  "search.useParentIgnoreFiles": true,
+  "search.useGlobalIgnoreFiles": true,
+  "git.fetchOnPull": true
+}
